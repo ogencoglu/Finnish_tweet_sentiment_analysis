@@ -3,6 +3,6 @@ Sentiment analysis of tweets by Finnish political party leaders (as of November 
 
 .. raw:: html
 
-    <img src="https://github.com/ogencoglu/Finnish_tweet_sentiment_analysis/blob/main/plot.png" height="700px">
+    <img src="https://github.com/ogencoglu/Finnish_tweet_sentiment_analysis/blob/main/plot.png" height="500px">
     
 Note: This is a super quick and dirty way of doing this!
